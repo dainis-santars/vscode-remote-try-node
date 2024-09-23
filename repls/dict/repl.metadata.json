@@ -1,0 +1,40 @@
+{
+    "id": "13411797-405c-4c83-b9b5-b1f92c56832e",
+    "title": "dict",
+    "isPrivate": false,
+    "slug": "dict",
+    "wasPublished": false,
+    "timeCreated": "2024-02-14T11:30:06.818Z",
+    "timeUpdated": "2024-02-21T18:19:35.809Z",
+    "user": {
+        "id": 4537766,
+        "username": "Dainisantars"
+    },
+    "language": "html",
+    "config": {
+        "isServer": null,
+        "isExtension": null,
+        "gitRemoteUrl": null,
+        "isVnc": null,
+        "doClone": null
+    },
+    "multiplayers": [],
+    "source": {
+        "release": {
+            "id": "61c8f0fb-9562-4c5a-9c26-3e3908262850",
+            "description": "* copy changes for nix modules Beta template\n* remove badge",
+            "hostedUrl": "https://release-61c8f0fb-9562-4c5a-9c26-3e3908262850.id.repl.co",
+            "user": {
+                "id": 18567562,
+                "username": "ryantmreplit"
+            }
+        },
+        "deployment": {
+            "id": 105,
+            "domain": null
+        }
+    },
+    "domains": [],
+    "isAlwaysOn": false,
+    "isBoosted": false
+}

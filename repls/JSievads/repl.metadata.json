@@ -1,0 +1,40 @@
+{
+    "id": "3c9261eb-b707-4c43-aba1-a0b189251d88",
+    "title": "JSievads",
+    "isPrivate": false,
+    "slug": "JSievads",
+    "wasPublished": false,
+    "timeCreated": "2022-05-16T13:59:12.561Z",
+    "timeUpdated": "2022-05-16T18:07:01.815Z",
+    "user": {
+        "id": 4537766,
+        "username": "Dainisantars"
+    },
+    "language": "html",
+    "config": {
+        "isServer": null,
+        "isExtension": null,
+        "gitRemoteUrl": null,
+        "isVnc": null,
+        "doClone": null
+    },
+    "multiplayers": [],
+    "source": {
+        "release": {
+            "id": "0c5f27a5-c4cf-49fc-a77d-59b247e64340",
+            "description": "Enabled CSS diagnostics and linting",
+            "hostedUrl": "https://release-0c5f27a5-c4cf-49fc-a77d-59b247e64340.id.repl.co",
+            "user": {
+                "id": 5753,
+                "username": "replitfaris"
+            }
+        },
+        "deployment": {
+            "id": 105,
+            "domain": null
+        }
+    },
+    "domains": [],
+    "isAlwaysOn": false,
+    "isBoosted": false
+}

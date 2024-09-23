@@ -1,0 +1,40 @@
+{
+    "id": "c2ea215f-6f45-42d8-9160-a36c59c4d751",
+    "title": "Tabula-7c",
+    "isPrivate": false,
+    "slug": "Tabula-7c",
+    "wasPublished": false,
+    "timeCreated": "2024-04-23T06:36:27.569Z",
+    "timeUpdated": "2024-04-23T06:54:39.305Z",
+    "user": {
+        "id": 4537766,
+        "username": "Dainisantars"
+    },
+    "language": "html",
+    "config": {
+        "isServer": null,
+        "isExtension": null,
+        "gitRemoteUrl": null,
+        "isVnc": null,
+        "doClone": null
+    },
+    "multiplayers": [],
+    "source": {
+        "release": {
+            "id": "d80bec42-5cce-4408-bedc-c0aecc35d1cc",
+            "description": "add entrypoint",
+            "hostedUrl": "https://release-d80bec42-5cce-4408-bedc-c0aecc35d1cc.id.repl.co",
+            "user": {
+                "id": 18567562,
+                "username": "ryantmreplit"
+            }
+        },
+        "deployment": {
+            "id": 105,
+            "domain": null
+        }
+    },
+    "domains": [],
+    "isAlwaysOn": false,
+    "isBoosted": false
+}

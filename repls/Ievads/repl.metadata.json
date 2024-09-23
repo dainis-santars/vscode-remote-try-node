@@ -1,0 +1,26 @@
+{
+    "id": "5aa5618a-45a5-45ec-a77b-056984cc34b1",
+    "title": "Ievads",
+    "isPrivate": false,
+    "slug": "Ievads",
+    "wasPublished": false,
+    "timeCreated": "2022-01-21T09:08:49.834Z",
+    "timeUpdated": "2023-09-07T13:59:57.093Z",
+    "user": {
+        "id": 4537766,
+        "username": "Dainisantars"
+    },
+    "language": "nix",
+    "config": {
+        "isServer": null,
+        "isExtension": null,
+        "gitRemoteUrl": null,
+        "isVnc": null,
+        "doClone": null
+    },
+    "multiplayers": [],
+    "source": null,
+    "domains": [],
+    "isAlwaysOn": false,
+    "isBoosted": false
+}

@@ -1,0 +1,40 @@
+{
+    "id": "22fcd8a9-ee77-458c-a62c-ef4a8b90d8ed",
+    "title": "karte-9a",
+    "isPrivate": false,
+    "slug": "karte-9a",
+    "wasPublished": false,
+    "timeCreated": "2024-03-28T07:27:42.067Z",
+    "timeUpdated": "2024-03-28T08:37:05.573Z",
+    "user": {
+        "id": 4537766,
+        "username": "Dainisantars"
+    },
+    "language": "html",
+    "config": {
+        "isServer": null,
+        "isExtension": null,
+        "gitRemoteUrl": null,
+        "isVnc": null,
+        "doClone": null
+    },
+    "multiplayers": [],
+    "source": {
+        "release": {
+            "id": "61c8f0fb-9562-4c5a-9c26-3e3908262850",
+            "description": "* copy changes for nix modules Beta template\n* remove badge",
+            "hostedUrl": "https://release-61c8f0fb-9562-4c5a-9c26-3e3908262850.id.repl.co",
+            "user": {
+                "id": 18567562,
+                "username": "ryantmreplit"
+            }
+        },
+        "deployment": {
+            "id": 105,
+            "domain": null
+        }
+    },
+    "domains": [],
+    "isAlwaysOn": false,
+    "isBoosted": false
+}

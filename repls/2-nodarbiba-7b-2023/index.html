@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>replit</title>
+  <link href="skeleton.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+<h1>Jupyter has a perfect code editor</h1>
+Everything’s right at your fingertips<br>
+<b><i>Dimitris Poulopoulos</i></b>
+
+<p>Notebooks have always been a tool for the incremental development of software ideas. Data scientists use Jupyter to journal their work, explore and experiment with novel algorithms, quickly sketch new approaches and immediately observe the outcomes.</p>
+<p>Moreover, <a href="http://jupyter.org/">JupyterLab</a> is moving towards becoming a full-fledged IDE; just not an IDE you are used to. With its great extensions and libraries like kale and nbdev, it is certainly capable of doing much more than just drafting an idea. Check the story below to find out more.</p>
+However, once every blue moon, we may want to edit a .py file. This file may hold some utility functions we import in the Notebook or define our models' classes. It’s a good practice to work like that, so we don’t pollute the Notebooks with many definitions. But the text editor bundled with JupyterLab is just that: a simple, featureless text editor.
+So, what can we do? There are efforts like this one, which tries to integrate the monaco editor (the code editor which powers VS Code) into JupyterLab. Still, as the contributors explicitly mention in the README file, <em>“this extension is merely a ‘proof-of-concept’ implementation and nowhere near production status.”</em> Also, the last commit was 3 years ago (at the time of writing), so it doesn’t seem like a very active project.
+But we do not need any extension. We have a terminal. Thus, we can have ViM. And ViM has everything we need; it just takes some time to master.
+If you love ViM, you know what I’m talking about. If you don’t, don’t shy away yet! <strong>This story shows you how to turn ViM into a Python IDE and use it side-by-side with Jupyter</strong>.
+<blockquote>Lerning Rate is a newsletter for those who are curious about the world of AI and MLOps. You’ll hear from me every Friday with updates and thoughts on the latest AI news and articles. Subscribe here!</blockquote>
+<h2>ViM for Python</h2>
+Let’s get to the point. The first step is actually to install ViM if it’s not already there. In this story, I assume that we are working in a hoster JupyterLab environment. If you’re working locally, there’s nothing to stop you from firing up <a href="https://github.com/Microsoft/vscode">VS Code</a> if you prefer that over ViM.
+<p>So, my guess is that you’re working inside a VM on the Cloud. That usually means a Linux environment. To install ViM on Debian distributions, run the following commands:</p>
+
+<code>sudo apt-get remove vim-tiny<br>
+sudo apt-get update<br>
+sudo apt-get install vim<br></code>
+
+<p>Note that some Linux distributions come with vim-tiny pre-installed. Thus, we need to remove it first and then install the full version.</p>
+<p>Then, let’s verify we have everything we need. Run <code>vim --version</code> and pay attention to two things:<br>
+    1. You should have installed VIM > 7.3<br>
+    2. Check for a <code>+python</code> or <code>+python3</code> feature</p>
+<p>We <del>is</del> are ready. Next, we need a good plugin manager.</p>
+  <script src="script.js"></script>
+
+  <!--
+  This script places a badge on your repl's full-browser view back to your repl's cover
+  page. Try various colors for the theme: dark, light, red, orange, yellow, lime, green,
+  teal, blue, blurple, magenta, pink!
+  -->
+  <script src="https://replit.com/public/js/replit-badge-v2.js" theme="dark" position="bottom-right"></script>
+</body>
+
+</html>

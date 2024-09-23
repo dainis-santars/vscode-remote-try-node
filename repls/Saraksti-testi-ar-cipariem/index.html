@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>replit</title>
+  <link href="style.css" rel="stylesheet" type="text/css" />
+  <script src='https://cdn.plot.ly/plotly-2.20.0.min.js'></script>
+</head>
+
+<body>
+  <button type="button" onclick="temperatura()">Ielādēt temperatūras mērījumus</button>
+  <div id="stats" style="display:none;">
+    <p id="temperaturas"></p>
+    <div id='grafiks'>
+      <!-- Plotly chart will be drawn inside this DIV -->
+    </div>
+    <p>Statistika:
+    <ul>
+      <li>Te ir <span id="skaits"></span> mērījumi</li>
+      <li>Maksimālā gaisa temperatūra bija <span id="maxTemp"></span>&#8451;</li>
+      <li>Minimālā gaisa temperatūra bija <span id="minTemp"></span>&#8451;</li>
+      <li>Temperatūras amplitūda bija <span id="amplituda"></span>&#8451;</li>
+      <li>Vidējā temperatūra bija <span id="vid"></span>&#8451;</li>
+      <li>Šajā laikā bija <span id="silti"></span> siltas dieniņas :)</li>
+    </ul>
+    </p>
+  </div>
+  <script src="script.js"></script>
+</body>
+
+</html>

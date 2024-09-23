@@ -1,0 +1,40 @@
+{
+    "id": "8615c168-5ab3-46cb-a9b6-eb15ef5344b1",
+    "title": "GUI",
+    "isPrivate": false,
+    "slug": "GUI",
+    "wasPublished": false,
+    "timeCreated": "2022-05-09T11:55:42.612Z",
+    "timeUpdated": "2024-02-21T08:35:37.546Z",
+    "user": {
+        "id": 4537766,
+        "username": "Dainisantars"
+    },
+    "language": "nix",
+    "config": {
+        "isServer": false,
+        "isExtension": null,
+        "gitRemoteUrl": null,
+        "isVnc": true,
+        "doClone": null
+    },
+    "multiplayers": [],
+    "source": {
+        "release": {
+            "id": "1843a1c1-7350-4378-b06c-a95ec50b15df",
+            "description": "Deleted README.md",
+            "hostedUrl": "https://release-1843a1c1-7350-4378-b06c-a95ec50b15df.id.repl.co",
+            "user": {
+                "id": 11143722,
+                "username": "bardia"
+            }
+        },
+        "deployment": {
+            "id": 429,
+            "domain": null
+        }
+    },
+    "domains": [],
+    "isAlwaysOn": false,
+    "isBoosted": false
+}

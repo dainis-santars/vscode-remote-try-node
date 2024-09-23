@@ -1,0 +1,22 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+#skaits {
+  font- color-interpolation-filters: ;: Arial, Helvetica, sans-serif; /* es ievietoju fontu  */
+  font-weight: bold;/*izvēlos fonta treknumu
+  font-style: normal*/
+  font-size: 2em;/*izvēlos parasto fonta stilu,nav ne slīpraksts, ne trekns raksts*/ 
+  color: #f073bc /* es ievietoju fona krāsu  */
+}
+  #atkritumi{
+    font- color-interpolation-filters: ;: Arial, Helvetica, sans-serif;/* es ievietoju fontu  */
+    font-weight: bold;/*izvēlos fonta treknumu
+    font-style: normal*/
+    font-size: 2em;/*izvēlos parasto fonta stilu,nav ne slīpraksts, ne trekns raksts*/ 
+  color: #f073bc} /* es ievietoju fonta krāsu  */
+
+body{
+  background-color: #f0d5e2; /* es ievietoju fona krāsu  */
+}
+}

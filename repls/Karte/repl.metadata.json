@@ -1,0 +1,40 @@
+{
+    "id": "5057d4f4-4280-4d31-8957-7545014e9eba",
+    "title": "Karte",
+    "isPrivate": false,
+    "slug": "Karte",
+    "wasPublished": false,
+    "timeCreated": "2023-02-24T13:32:05.077Z",
+    "timeUpdated": "2023-04-17T11:51:55.980Z",
+    "user": {
+        "id": 4537766,
+        "username": "Dainisantars"
+    },
+    "language": "html",
+    "config": {
+        "isServer": null,
+        "isExtension": null,
+        "gitRemoteUrl": null,
+        "isVnc": null,
+        "doClone": null
+    },
+    "multiplayers": [],
+    "source": {
+        "release": {
+            "id": "dcb2f5cb-df28-415c-a25c-d1326f2af359",
+            "description": "Remove scrollbars",
+            "hostedUrl": "https://release-dcb2f5cb-df28-415c-a25c-d1326f2af359.id.repl.co",
+            "user": {
+                "id": 18567562,
+                "username": "ryantmreplit"
+            }
+        },
+        "deployment": {
+            "id": 105,
+            "domain": null
+        }
+    },
+    "domains": [],
+    "isAlwaysOn": false,
+    "isBoosted": false
+}

@@ -1,0 +1,40 @@
+{
+    "id": "fca91a4e-e5ea-4885-b544-9cddeec49902",
+    "title": "Saraksti-testi",
+    "isPrivate": false,
+    "slug": "Saraksti-testi",
+    "wasPublished": false,
+    "timeCreated": "2023-03-27T13:47:27.241Z",
+    "timeUpdated": "2023-04-14T09:29:53.743Z",
+    "user": {
+        "id": 4537766,
+        "username": "Dainisantars"
+    },
+    "language": "html",
+    "config": {
+        "isServer": null,
+        "isExtension": null,
+        "gitRemoteUrl": null,
+        "isVnc": null,
+        "doClone": null
+    },
+    "multiplayers": [],
+    "source": {
+        "release": {
+            "id": "c4ef9138-fb74-4a6a-ae00-f2283e0cf5f5",
+            "description": "move github imports to the bottom of .replit",
+            "hostedUrl": "https://release-c4ef9138-fb74-4a6a-ae00-f2283e0cf5f5.id.repl.co",
+            "user": {
+                "id": 13999037,
+                "username": "VictorWang19"
+            }
+        },
+        "deployment": {
+            "id": 105,
+            "domain": null
+        }
+    },
+    "domains": [],
+    "isAlwaysOn": false,
+    "isBoosted": false
+}

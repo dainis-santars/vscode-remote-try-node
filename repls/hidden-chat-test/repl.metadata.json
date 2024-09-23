@@ -1,0 +1,40 @@
+{
+    "id": "af11eb49-d91f-41f7-b158-2ae0a0d99d84",
+    "title": "hidden-chat-test",
+    "isPrivate": false,
+    "slug": "hidden-chat-test",
+    "wasPublished": false,
+    "timeCreated": "2022-04-25T12:31:54.624Z",
+    "timeUpdated": "2022-11-09T18:37:25.924Z",
+    "user": {
+        "id": 4537766,
+        "username": "Dainisantars"
+    },
+    "language": "nix",
+    "config": {
+        "isServer": true,
+        "isExtension": null,
+        "gitRemoteUrl": null,
+        "isVnc": false,
+        "doClone": null
+    },
+    "multiplayers": [],
+    "source": {
+        "release": {
+            "id": "5a7df242-f136-444f-939d-1203050a22c5",
+            "description": "Fixed shebang for venv/bin/wheel",
+            "hostedUrl": "https://release-5a7df242-f136-444f-939d-1203050a22c5.id.repl.co",
+            "user": {
+                "id": 11518439,
+                "username": "scottatreplit"
+            }
+        },
+        "deployment": {
+            "id": 429,
+            "domain": null
+        }
+    },
+    "domains": [],
+    "isAlwaysOn": false,
+    "isBoosted": false
+}

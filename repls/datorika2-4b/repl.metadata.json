@@ -1,0 +1,40 @@
+{
+    "id": "67aa9822-fe0a-4b57-b745-720988d6a3cf",
+    "title": "datorika2-4b",
+    "isPrivate": false,
+    "slug": "datorika2-4b",
+    "wasPublished": false,
+    "timeCreated": "2021-12-16T12:25:59.132Z",
+    "timeUpdated": "2021-12-16T12:52:27.447Z",
+    "user": {
+        "id": 4537766,
+        "username": "Dainisantars"
+    },
+    "language": "html",
+    "config": {
+        "isServer": null,
+        "isExtension": null,
+        "gitRemoteUrl": null,
+        "isVnc": null,
+        "doClone": null
+    },
+    "multiplayers": [],
+    "source": {
+        "release": {
+            "id": "844f125e-06ac-42e9-a7a1-03562fc547aa",
+            "description": "Dropping the dot from replit in the title",
+            "hostedUrl": "https://release-844f125e-06ac-42e9-a7a1-03562fc547aa.id.repl.co",
+            "user": {
+                "id": 2340280,
+                "username": "SergeiChestakov"
+            }
+        },
+        "deployment": {
+            "id": 105,
+            "domain": null
+        }
+    },
+    "domains": [],
+    "isAlwaysOn": false,
+    "isBoosted": false
+}

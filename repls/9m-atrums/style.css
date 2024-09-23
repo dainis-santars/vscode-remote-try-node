@@ -1,0 +1,13 @@
+body {
+  height: 100vh;
+  width: 100%;
+  background: linear-gradient(#9fb2fe, #7c62fe);
+}
+#kms {
+  font-size: 5em;
+  color: #ffffff;
+}
+#atrums {
+  font-size: 2.5em;
+  color: #3400ad;
+}

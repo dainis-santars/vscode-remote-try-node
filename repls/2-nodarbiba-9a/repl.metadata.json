@@ -1,0 +1,40 @@
+{
+    "id": "dfd6dd87-dadc-4c12-b60f-fd8b75df2ac6",
+    "title": "2-nodarbiba-9a",
+    "isPrivate": false,
+    "slug": "2-nodarbiba-9a",
+    "wasPublished": false,
+    "timeCreated": "2023-11-10T11:41:21.116Z",
+    "timeUpdated": "2023-11-10T12:08:08.576Z",
+    "user": {
+        "id": 4537766,
+        "username": "Dainisantars"
+    },
+    "language": "html",
+    "config": {
+        "isServer": null,
+        "isExtension": null,
+        "gitRemoteUrl": null,
+        "isVnc": null,
+        "doClone": null
+    },
+    "multiplayers": [],
+    "source": {
+        "release": {
+            "id": "c4c0c720-b2ee-4517-90e7-1a26d59e814d",
+            "description": "Update .replit file with deployment configuration",
+            "hostedUrl": "https://release-c4c0c720-b2ee-4517-90e7-1a26d59e814d.id.repl.co",
+            "user": {
+                "id": 10274044,
+                "username": "lincoln-replit"
+            }
+        },
+        "deployment": {
+            "id": 105,
+            "domain": null
+        }
+    },
+    "domains": [],
+    "isAlwaysOn": false,
+    "isBoosted": false
+}

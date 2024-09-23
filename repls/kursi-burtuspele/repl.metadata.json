@@ -1,0 +1,40 @@
+{
+    "id": "e6ef3e2a-ce12-459d-8af9-b3899a8d0e68",
+    "title": "kursi-burtuspele",
+    "isPrivate": false,
+    "slug": "kursi-burtuspele",
+    "wasPublished": false,
+    "timeCreated": "2022-04-03T14:22:54.918Z",
+    "timeUpdated": "2022-04-18T18:46:27.786Z",
+    "user": {
+        "id": 4537766,
+        "username": "Dainisantars"
+    },
+    "language": "nix",
+    "config": {
+        "isServer": true,
+        "isExtension": null,
+        "gitRemoteUrl": null,
+        "isVnc": false,
+        "doClone": null
+    },
+    "multiplayers": [],
+    "source": {
+        "release": {
+            "id": "92d49e85-08e8-4f0e-84e3-cbab3b1045a9",
+            "description": "* Update wheel to 0.37.1 to avoid some warnings.\n* Fixed an issue where pip wasn't able to install packages from source.\n* Fixed the script generation logic so that it does not contain the repl name in the script.\n* Added the LD_LIBRARY_PATH override back so that numpy / pandas work again.",
+            "hostedUrl": "https://release-92d49e85-08e8-4f0e-84e3-cbab3b1045a9.id.repl.co",
+            "user": {
+                "id": 4336206,
+                "username": "luisreplit"
+            }
+        },
+        "deployment": {
+            "id": 429,
+            "domain": null
+        }
+    },
+    "domains": [],
+    "isAlwaysOn": false,
+    "isBoosted": false
+}

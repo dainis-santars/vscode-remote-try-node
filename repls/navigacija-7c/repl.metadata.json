@@ -1,0 +1,40 @@
+{
+    "id": "55ecf823-f21f-4ad4-adf4-9e936fa12bbf",
+    "title": "navigacija-7c",
+    "isPrivate": false,
+    "slug": "navigacija-7c",
+    "wasPublished": false,
+    "timeCreated": "2024-04-26T10:36:25.865Z",
+    "timeUpdated": "2024-04-26T11:07:25.916Z",
+    "user": {
+        "id": 4537766,
+        "username": "Dainisantars"
+    },
+    "language": "html",
+    "config": {
+        "isServer": null,
+        "isExtension": null,
+        "gitRemoteUrl": null,
+        "isVnc": null,
+        "doClone": null
+    },
+    "multiplayers": [],
+    "source": {
+        "release": {
+            "id": "d80bec42-5cce-4408-bedc-c0aecc35d1cc",
+            "description": "add entrypoint",
+            "hostedUrl": "https://release-d80bec42-5cce-4408-bedc-c0aecc35d1cc.id.repl.co",
+            "user": {
+                "id": 18567562,
+                "username": "ryantmreplit"
+            }
+        },
+        "deployment": {
+            "id": 105,
+            "domain": null
+        }
+    },
+    "domains": [],
+    "isAlwaysOn": false,
+    "isBoosted": false
+}

@@ -1,0 +1,26 @@
+{
+    "id": "7b198866-2571-47ee-b76e-10fc9d5ef288",
+    "title": "Projekts-10-klase",
+    "isPrivate": false,
+    "slug": "Projekts-10-klase",
+    "wasPublished": false,
+    "timeCreated": "2021-04-08T17:19:35.546Z",
+    "timeUpdated": "2022-01-16T19:00:59.967Z",
+    "user": {
+        "id": 4537766,
+        "username": "Dainisantars"
+    },
+    "language": "python3",
+    "config": {
+        "isServer": false,
+        "isExtension": null,
+        "gitRemoteUrl": null,
+        "isVnc": false,
+        "doClone": null
+    },
+    "multiplayers": [],
+    "source": null,
+    "domains": [],
+    "isAlwaysOn": false,
+    "isBoosted": false
+}

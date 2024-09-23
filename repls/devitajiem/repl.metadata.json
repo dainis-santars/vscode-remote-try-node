@@ -1,0 +1,40 @@
+{
+    "id": "f03c1f1c-fa0f-4bb3-a4a4-e16ff93584d7",
+    "title": "devitajiem",
+    "isPrivate": false,
+    "slug": "devitajiem",
+    "wasPublished": false,
+    "timeCreated": "2023-11-12T13:54:05.060Z",
+    "timeUpdated": "2023-11-13T07:20:52.428Z",
+    "user": {
+        "id": 4537766,
+        "username": "Dainisantars"
+    },
+    "language": "html",
+    "config": {
+        "isServer": null,
+        "isExtension": null,
+        "gitRemoteUrl": null,
+        "isVnc": null,
+        "doClone": null
+    },
+    "multiplayers": [],
+    "source": {
+        "release": {
+            "id": "c4c0c720-b2ee-4517-90e7-1a26d59e814d",
+            "description": "Update .replit file with deployment configuration",
+            "hostedUrl": "https://release-c4c0c720-b2ee-4517-90e7-1a26d59e814d.id.repl.co",
+            "user": {
+                "id": 10274044,
+                "username": "lincoln-replit"
+            }
+        },
+        "deployment": {
+            "id": 105,
+            "domain": null
+        }
+    },
+    "domains": [],
+    "isAlwaysOn": false,
+    "isBoosted": false
+}

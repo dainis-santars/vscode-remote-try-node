@@ -1,0 +1,26 @@
+{
+    "id": "ff70da31-89d1-41eb-8788-cda955dfcad7",
+    "title": "PopularStainedConditionals",
+    "isPrivate": false,
+    "slug": "PopularStainedConditionals",
+    "wasPublished": false,
+    "timeCreated": "2021-11-02T08:23:51.259Z",
+    "timeUpdated": "2021-11-02T09:09:54.918Z",
+    "user": {
+        "id": 4537766,
+        "username": "Dainisantars"
+    },
+    "language": "python3",
+    "config": {
+        "isServer": false,
+        "isExtension": null,
+        "gitRemoteUrl": null,
+        "isVnc": true,
+        "doClone": null
+    },
+    "multiplayers": [],
+    "source": null,
+    "domains": [],
+    "isAlwaysOn": false,
+    "isBoosted": false
+}

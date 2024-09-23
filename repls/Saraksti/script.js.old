@@ -1,0 +1,41 @@
+async function ieladetChataZinas()
+{
+    let klasesDati = await fetch('8a.txt');
+    let dati = await klasesDati.text();
+    let arr = dati.split('\n');
+    let sajauktsArr = arr;
+  //https://www.freecodecamp.org/news/javascript-split-how-to-split-a-string-into-an-array-in-js/
+    //document.getElementById("rawData").innerHTML = arr;
+    let ol = document.getElementById("rawData");
+      for (var i = 0; i < arr.length; i++) {
+        var name = arr[i];
+        var li = document.createElement('li');
+        li.innerHTML = name;  
+        document.getElementById('rawData').appendChild(li);
+      //https://stackoverflow.com/questions/47951287/dynamically-add-li-to-ul-javascript
+      }
+  function shuffleArray(sajauktsArr) {
+    arr.sort(() => Math.random() - 0.5);
+  }
+  
+  shuffleArray(sajauktsArr);
+  document.getElementById("sajaukts").innerHTML = sajauktsArr;
+//https://www.w3docs.com/snippets/javascript/how-to-randomize-shuffle-a-javascript-array.html
+  function sliceIntoChunks(sajauktsArr, chunkSize) {
+      const res = [];
+      for (let i = 0; i < sajauktsArr.length; i += chunkSize) {
+          const chunk = sajauktsArr.slice(i, i + chunkSize);
+          res.push(chunk);
+      }
+      return res;
+  }
+  // function paTris() {
+  //   grupuArr = sliceIntoChunks(sajauktsArr, 3));
+  //   for (i = 0; i < grupuArr.length; i++)
+  //   document.writeln((i+1) + ": " + grupuArr[i]) + "\n";
+  //   //https://stackabuse.com/how-to-split-an-array-into-even-chunks-in-javascript/
+  // }
+}
+shuffleArray();
+sliceIntoChunks();
+paTris();

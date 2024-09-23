@@ -1,0 +1,40 @@
+{
+    "id": "f9ff576e-9240-438e-8634-6735c09ad051",
+    "title": "karte-9p",
+    "isPrivate": false,
+    "slug": "karte-9p",
+    "wasPublished": false,
+    "timeCreated": "2023-03-06T09:10:22.295Z",
+    "timeUpdated": "2023-04-04T10:53:08.650Z",
+    "user": {
+        "id": 4537766,
+        "username": "Dainisantars"
+    },
+    "language": "html",
+    "config": {
+        "isServer": null,
+        "isExtension": null,
+        "gitRemoteUrl": null,
+        "isVnc": null,
+        "doClone": null
+    },
+    "multiplayers": [],
+    "source": {
+        "release": {
+            "id": "e286f683-0199-4ff2-9a46-f4e4149725d5",
+            "description": "Update to nixpkgs 22.11",
+            "hostedUrl": "https://release-e286f683-0199-4ff2-9a46-f4e4149725d5.id.repl.co",
+            "user": {
+                "id": 19457641,
+                "username": "coltonatreplit"
+            }
+        },
+        "deployment": {
+            "id": 105,
+            "domain": null
+        }
+    },
+    "domains": [],
+    "isAlwaysOn": false,
+    "isBoosted": false
+}

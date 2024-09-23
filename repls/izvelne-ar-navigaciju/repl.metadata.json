@@ -1,0 +1,40 @@
+{
+    "id": "84b186ac-9f6d-4bcd-b903-f2c94ea7e9e7",
+    "title": "izvelne-ar-navigaciju",
+    "isPrivate": false,
+    "slug": "izvelne-ar-navigaciju",
+    "wasPublished": false,
+    "timeCreated": "2023-05-02T06:25:19.275Z",
+    "timeUpdated": "2023-05-03T06:26:51.352Z",
+    "user": {
+        "id": 4537766,
+        "username": "Dainisantars"
+    },
+    "language": "html",
+    "config": {
+        "isServer": null,
+        "isExtension": null,
+        "gitRemoteUrl": null,
+        "isVnc": null,
+        "doClone": null
+    },
+    "multiplayers": [],
+    "source": {
+        "release": {
+            "id": "44a3468a-4671-40ce-b901-8e3eb98c1663",
+            "description": "css formatting",
+            "hostedUrl": "https://release-44a3468a-4671-40ce-b901-8e3eb98c1663.id.repl.co",
+            "user": {
+                "id": 5753,
+                "username": "replitfaris"
+            }
+        },
+        "deployment": {
+            "id": 105,
+            "domain": null
+        }
+    },
+    "domains": [],
+    "isAlwaysOn": false,
+    "isBoosted": false
+}

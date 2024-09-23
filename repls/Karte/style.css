@@ -1,0 +1,8 @@
+body {
+  height: 100vh;
+  background: linear-gradient(#33d17a, #26a269);
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 2em;
+  color: #ffffff;
+}
+#map { height: 300px; }

@@ -1,0 +1,26 @@
+{
+    "id": "999e9d7f-e1e2-49bc-8a30-f39d9823ae00",
+    "title": "kursi-servera-piemers",
+    "isPrivate": false,
+    "slug": "kursi-servera-piemers",
+    "wasPublished": false,
+    "timeCreated": "2022-01-21T10:04:41.649Z",
+    "timeUpdated": "2022-01-21T14:58:17.370Z",
+    "user": {
+        "id": 4537766,
+        "username": "Dainisantars"
+    },
+    "language": "python3",
+    "config": {
+        "isServer": true,
+        "isExtension": null,
+        "gitRemoteUrl": null,
+        "isVnc": false,
+        "doClone": null
+    },
+    "multiplayers": [],
+    "source": null,
+    "domains": [],
+    "isAlwaysOn": false,
+    "isBoosted": false
+}

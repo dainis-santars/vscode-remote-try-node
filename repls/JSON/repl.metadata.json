@@ -1,0 +1,26 @@
+{
+    "id": "4f5684c9-03cc-4541-9425-e46696cb5c5b",
+    "title": "JSON",
+    "isPrivate": false,
+    "slug": "JSON",
+    "wasPublished": false,
+    "timeCreated": "2022-01-21T12:11:38.723Z",
+    "timeUpdated": "2022-01-21T13:30:23.060Z",
+    "user": {
+        "id": 4537766,
+        "username": "Dainisantars"
+    },
+    "language": "python3",
+    "config": {
+        "isServer": null,
+        "isExtension": null,
+        "gitRemoteUrl": null,
+        "isVnc": null,
+        "doClone": null
+    },
+    "multiplayers": [],
+    "source": null,
+    "domains": [],
+    "isAlwaysOn": false,
+    "isBoosted": false
+}

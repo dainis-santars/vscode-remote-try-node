@@ -1,0 +1,40 @@
+{
+    "id": "88ed4aa0-48f1-4b10-9c90-6b281fdba0b6",
+    "title": "Varaviksne-7c",
+    "isPrivate": false,
+    "slug": "Varaviksne-7c",
+    "wasPublished": false,
+    "timeCreated": "2024-04-09T06:31:10.303Z",
+    "timeUpdated": "2024-04-17T11:51:31.878Z",
+    "user": {
+        "id": 4537766,
+        "username": "Dainisantars"
+    },
+    "language": "html",
+    "config": {
+        "isServer": null,
+        "isExtension": null,
+        "gitRemoteUrl": null,
+        "isVnc": null,
+        "doClone": null
+    },
+    "multiplayers": [],
+    "source": {
+        "release": {
+            "id": "d80bec42-5cce-4408-bedc-c0aecc35d1cc",
+            "description": "add entrypoint",
+            "hostedUrl": "https://release-d80bec42-5cce-4408-bedc-c0aecc35d1cc.id.repl.co",
+            "user": {
+                "id": 18567562,
+                "username": "ryantmreplit"
+            }
+        },
+        "deployment": {
+            "id": 105,
+            "domain": null
+        }
+    },
+    "domains": [],
+    "isAlwaysOn": false,
+    "isBoosted": false
+}

@@ -1,0 +1,40 @@
+{
+    "id": "59e4ecb6-09cd-4652-b7a6-0dc10245fa30",
+    "title": "dice-roll-9p",
+    "isPrivate": false,
+    "slug": "dice-roll-9p",
+    "wasPublished": false,
+    "timeCreated": "2023-02-21T11:41:03.338Z",
+    "timeUpdated": "2023-02-21T12:09:34.339Z",
+    "user": {
+        "id": 4537766,
+        "username": "Dainisantars"
+    },
+    "language": "html",
+    "config": {
+        "isServer": null,
+        "isExtension": null,
+        "gitRemoteUrl": null,
+        "isVnc": null,
+        "doClone": null
+    },
+    "multiplayers": [],
+    "source": {
+        "release": {
+            "id": "dcb2f5cb-df28-415c-a25c-d1326f2af359",
+            "description": "Remove scrollbars",
+            "hostedUrl": "https://release-dcb2f5cb-df28-415c-a25c-d1326f2af359.id.repl.co",
+            "user": {
+                "id": 18567562,
+                "username": "ryantmreplit"
+            }
+        },
+        "deployment": {
+            "id": 105,
+            "domain": null
+        }
+    },
+    "domains": [],
+    "isAlwaysOn": false,
+    "isBoosted": false
+}

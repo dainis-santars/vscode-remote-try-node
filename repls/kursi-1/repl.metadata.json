@@ -1,0 +1,40 @@
+{
+    "id": "a5e327d2-942d-4154-b3a7-e72fb7fd5114",
+    "title": "kursi-1",
+    "isPrivate": false,
+    "slug": "kursi-1",
+    "wasPublished": false,
+    "timeCreated": "2022-02-23T10:54:06.769Z",
+    "timeUpdated": "2022-04-13T13:24:04.756Z",
+    "user": {
+        "id": 4537766,
+        "username": "Dainisantars"
+    },
+    "language": "nix",
+    "config": {
+        "isServer": null,
+        "isExtension": null,
+        "gitRemoteUrl": null,
+        "isVnc": null,
+        "doClone": null
+    },
+    "multiplayers": [],
+    "source": {
+        "release": {
+            "id": "bd742bf9-675f-451c-8d38-43feff3b3d5a",
+            "description": "Temporarily removed stderred to avoid a bug where `os.system(...)` fails to load bash due to conflicting libc implementations.",
+            "hostedUrl": "https://release-bd742bf9-675f-451c-8d38-43feff3b3d5a.id.repl.co",
+            "user": {
+                "id": 4336206,
+                "username": "luisreplit"
+            }
+        },
+        "deployment": {
+            "id": 429,
+            "domain": null
+        }
+    },
+    "domains": [],
+    "isAlwaysOn": false,
+    "isBoosted": false
+}

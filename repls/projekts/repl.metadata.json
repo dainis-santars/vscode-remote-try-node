@@ -1,0 +1,40 @@
+{
+    "id": "56b37a8a-26a7-4543-ae0c-c05ac9170418",
+    "title": "projekts",
+    "isPrivate": false,
+    "slug": "projekts",
+    "wasPublished": false,
+    "timeCreated": "2024-05-20T14:17:43.844Z",
+    "timeUpdated": "2024-05-20T14:17:43.845Z",
+    "user": {
+        "id": 4537766,
+        "username": "Dainisantars"
+    },
+    "language": "html",
+    "config": {
+        "isServer": null,
+        "isExtension": null,
+        "gitRemoteUrl": null,
+        "isVnc": null,
+        "doClone": null
+    },
+    "multiplayers": [],
+    "source": {
+        "release": {
+            "id": "61c8f0fb-9562-4c5a-9c26-3e3908262850",
+            "description": "* copy changes for nix modules Beta template\n* remove badge",
+            "hostedUrl": "https://release-61c8f0fb-9562-4c5a-9c26-3e3908262850.id.repl.co",
+            "user": {
+                "id": 18567562,
+                "username": "ryantmreplit"
+            }
+        },
+        "deployment": {
+            "id": 105,
+            "domain": null
+        }
+    },
+    "domains": [],
+    "isAlwaysOn": false,
+    "isBoosted": false
+}

@@ -1,0 +1,40 @@
+{
+    "id": "4d4bb1f0-b3ec-4fad-a990-cb775150a93c",
+    "title": "Izmeginajums-forma",
+    "isPrivate": false,
+    "slug": "Izmeginajums-forma",
+    "wasPublished": false,
+    "timeCreated": "2024-02-28T10:04:06.255Z",
+    "timeUpdated": "2024-02-28T10:11:38.166Z",
+    "user": {
+        "id": 4537766,
+        "username": "Dainisantars"
+    },
+    "language": "nix",
+    "config": {
+        "isServer": true,
+        "isExtension": null,
+        "gitRemoteUrl": null,
+        "isVnc": false,
+        "doClone": null
+    },
+    "multiplayers": [],
+    "source": {
+        "release": {
+            "id": "4b0e397d-386c-483e-9802-5cc93cd392a2",
+            "description": "add .gitignore",
+            "hostedUrl": "https://release-4b0e397d-386c-483e-9802-5cc93cd392a2.id.repl.co",
+            "user": {
+                "id": 18567562,
+                "username": "ryantmreplit"
+            }
+        },
+        "deployment": {
+            "id": 477,
+            "domain": null
+        }
+    },
+    "domains": [],
+    "isAlwaysOn": false,
+    "isBoosted": false
+}

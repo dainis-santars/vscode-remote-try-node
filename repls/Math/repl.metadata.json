@@ -1,0 +1,26 @@
+{
+    "id": "24c687bd-b391-4d07-bd59-89d8345fbc06",
+    "title": "Math",
+    "isPrivate": false,
+    "slug": "Math",
+    "wasPublished": false,
+    "timeCreated": "2021-11-02T08:07:37.583Z",
+    "timeUpdated": "2022-01-24T14:17:18.706Z",
+    "user": {
+        "id": 4537766,
+        "username": "Dainisantars"
+    },
+    "language": "python3",
+    "config": {
+        "isServer": false,
+        "isExtension": null,
+        "gitRemoteUrl": null,
+        "isVnc": true,
+        "doClone": null
+    },
+    "multiplayers": [],
+    "source": null,
+    "domains": [],
+    "isAlwaysOn": false,
+    "isBoosted": false
+}

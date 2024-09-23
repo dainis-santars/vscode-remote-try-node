@@ -1,0 +1,40 @@
+{
+    "id": "9a94eb63-527f-4b78-bee9-eb6319865393",
+    "title": "WebGUI",
+    "isPrivate": false,
+    "slug": "WebGUI",
+    "wasPublished": false,
+    "timeCreated": "2022-05-16T12:09:24.860Z",
+    "timeUpdated": "2022-05-16T12:33:56.492Z",
+    "user": {
+        "id": 4537766,
+        "username": "Dainisantars"
+    },
+    "language": "nix",
+    "config": {
+        "isServer": true,
+        "isExtension": null,
+        "gitRemoteUrl": null,
+        "isVnc": false,
+        "doClone": null
+    },
+    "multiplayers": [],
+    "source": {
+        "release": {
+            "id": "a0059455-2b21-41ec-ac85-8fa58e8b554d",
+            "description": "This fixes command line scripts installed by Python packages such as uvicorn.",
+            "hostedUrl": "https://release-a0059455-2b21-41ec-ac85-8fa58e8b554d.id.repl.co",
+            "user": {
+                "id": 13066664,
+                "username": "tobyho"
+            }
+        },
+        "deployment": {
+            "id": 429,
+            "domain": null
+        }
+    },
+    "domains": [],
+    "isAlwaysOn": false,
+    "isBoosted": false
+}

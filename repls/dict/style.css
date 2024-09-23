@@ -1,0 +1,47 @@
+body {
+  height: 100vh;
+  background: linear-gradient(#62a0ea, #1c71d8);
+  font-family: "IBM Plex Sans Condensed", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 1.5em;
+  color: #ffffff;
+}
+h1 {
+  font-family: "IBM Plex Sans Condensed", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+  color: #ffffff;
+}
+.phonetic {
+  font-family: "IBM Plex Mono", monospace;
+  font-weight: 400;
+  font-style: italic;
+  font-size: 1em;
+}
+.vards {
+  font-family: "IBM Plex Mono", monospace;
+  font-weight: 600;
+  font-style: normal;
+  font-size: 1em;
+}
+button {
+  font-family: "IBM Plex Sans Condensed", sans-serif;
+  font-size: 0.7em;
+  background-color: #f0f0f0;
+  border: none;
+  cursor: pointer;
+  padding: 10px 15px;
+  border-radius: 5px;
+}
+
+button:hover {
+  background-color: #e0e0e0;
+}
+
+input[type=text] {
+  width: 40%;
+  font-family: "IBM Plex Sans Condensed", sans-serif;
+  font-size: 0.7em;
+  padding: 12px 20px;
+}
