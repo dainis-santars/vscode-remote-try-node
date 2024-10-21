@@ -1,0 +1,26 @@
+{
+    "id": "a8b86283-9cfb-4e39-816d-442f05ee5c4d",
+    "title": "Policija",
+    "isPrivate": false,
+    "slug": "Policija",
+    "wasPublished": false,
+    "timeCreated": "2021-03-05T12:15:42.664Z",
+    "timeUpdated": "2021-03-05T12:15:42.665Z",
+    "user": {
+        "id": 4537766,
+        "username": "Dainisantars"
+    },
+    "language": "python3",
+    "config": {
+        "isServer": false,
+        "isExtension": null,
+        "gitRemoteUrl": null,
+        "isVnc": false,
+        "doClone": null
+    },
+    "multiplayers": [],
+    "source": null,
+    "domains": [],
+    "isAlwaysOn": false,
+    "isBoosted": false
+}

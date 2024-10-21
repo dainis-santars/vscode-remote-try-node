@@ -1,0 +1,26 @@
+{
+    "id": "4cf637fd-ef29-409f-ac3e-73aa35aa2f66",
+    "title": "Tabulas-1",
+    "isPrivate": false,
+    "slug": "Tabulas-1",
+    "wasPublished": false,
+    "timeCreated": "2021-04-19T13:33:47.858Z",
+    "timeUpdated": "2021-04-19T13:33:47.865Z",
+    "user": {
+        "id": 4537766,
+        "username": "Dainisantars"
+    },
+    "language": "html",
+    "config": {
+        "isServer": false,
+        "isExtension": null,
+        "gitRemoteUrl": null,
+        "isVnc": false,
+        "doClone": null
+    },
+    "multiplayers": [],
+    "source": null,
+    "domains": [],
+    "isAlwaysOn": false,
+    "isBoosted": false
+}

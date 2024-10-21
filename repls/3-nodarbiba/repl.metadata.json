@@ -1,0 +1,26 @@
+{
+    "id": "c8414824-6464-4845-bf73-4b32b3e49254",
+    "title": "3. nodarbība",
+    "isPrivate": false,
+    "slug": "3-nodarbiba",
+    "wasPublished": false,
+    "timeCreated": "2021-04-14T05:42:56.032Z",
+    "timeUpdated": "2021-04-14T05:42:56.051Z",
+    "user": {
+        "id": 4537766,
+        "username": "Dainisantars"
+    },
+    "language": "html",
+    "config": {
+        "isServer": false,
+        "isExtension": null,
+        "gitRemoteUrl": null,
+        "isVnc": false,
+        "doClone": null
+    },
+    "multiplayers": [],
+    "source": null,
+    "domains": [],
+    "isAlwaysOn": false,
+    "isBoosted": false
+}

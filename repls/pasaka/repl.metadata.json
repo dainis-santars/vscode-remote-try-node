@@ -1,0 +1,26 @@
+{
+    "id": "c6628762-4a6f-4754-8d8f-0ce02a5c30e2",
+    "title": "pasaka",
+    "isPrivate": false,
+    "slug": "pasaka",
+    "wasPublished": false,
+    "timeCreated": "2021-04-08T12:14:48.664Z",
+    "timeUpdated": "2021-04-08T12:14:48.669Z",
+    "user": {
+        "id": 4537766,
+        "username": "Dainisantars"
+    },
+    "language": "html",
+    "config": {
+        "isServer": false,
+        "isExtension": null,
+        "gitRemoteUrl": null,
+        "isVnc": false,
+        "doClone": null
+    },
+    "multiplayers": [],
+    "source": null,
+    "domains": [],
+    "isAlwaysOn": false,
+    "isBoosted": false
+}

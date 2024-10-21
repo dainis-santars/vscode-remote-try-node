@@ -1,0 +1,26 @@
+{
+    "id": "e347739d-36c9-4e0e-a6c5-6dbfcb459423",
+    "title": "KD",
+    "isPrivate": false,
+    "slug": "KD",
+    "wasPublished": false,
+    "timeCreated": "2021-05-24T12:13:56.700Z",
+    "timeUpdated": "2021-05-24T12:13:56.707Z",
+    "user": {
+        "id": 4537766,
+        "username": "Dainisantars"
+    },
+    "language": "html",
+    "config": {
+        "isServer": false,
+        "isExtension": null,
+        "gitRemoteUrl": null,
+        "isVnc": false,
+        "doClone": null
+    },
+    "multiplayers": [],
+    "source": null,
+    "domains": [],
+    "isAlwaysOn": false,
+    "isBoosted": false
+}

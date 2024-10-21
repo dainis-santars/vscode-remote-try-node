@@ -1,0 +1,26 @@
+{
+    "id": "987244a0-0ebe-44e7-8c22-8d7dc743ae68",
+    "title": "Attēli",
+    "isPrivate": false,
+    "slug": "Atteli",
+    "wasPublished": false,
+    "timeCreated": "2021-03-08T12:34:36.527Z",
+    "timeUpdated": "2021-03-08T12:34:36.532Z",
+    "user": {
+        "id": 4537766,
+        "username": "Dainisantars"
+    },
+    "language": "html",
+    "config": {
+        "isServer": false,
+        "isExtension": null,
+        "gitRemoteUrl": null,
+        "isVnc": false,
+        "doClone": null
+    },
+    "multiplayers": [],
+    "source": null,
+    "domains": [],
+    "isAlwaysOn": false,
+    "isBoosted": false
+}

@@ -1,0 +1,26 @@
+{
+    "id": "029b7974-979d-42c2-aba1-10c1e6e0a7b1",
+    "title": "emīls",
+    "isPrivate": false,
+    "slug": "emils",
+    "wasPublished": false,
+    "timeCreated": "2021-03-15T09:10:04.633Z",
+    "timeUpdated": "2021-03-15T09:10:04.640Z",
+    "user": {
+        "id": 4537766,
+        "username": "Dainisantars"
+    },
+    "language": "python3",
+    "config": {
+        "isServer": false,
+        "isExtension": null,
+        "gitRemoteUrl": null,
+        "isVnc": false,
+        "doClone": null
+    },
+    "multiplayers": [],
+    "source": null,
+    "domains": [],
+    "isAlwaysOn": false,
+    "isBoosted": false
+}

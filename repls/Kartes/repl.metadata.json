@@ -1,0 +1,26 @@
+{
+    "id": "c3804559-2f85-4949-9187-7a9638c49a29",
+    "title": "Kartes",
+    "isPrivate": false,
+    "slug": "Kartes",
+    "wasPublished": false,
+    "timeCreated": "2021-10-26T12:38:39.433Z",
+    "timeUpdated": "2021-10-31T11:28:13.384Z",
+    "user": {
+        "id": 4537766,
+        "username": "Dainisantars"
+    },
+    "language": "python3",
+    "config": {
+        "isServer": false,
+        "isExtension": null,
+        "gitRemoteUrl": null,
+        "isVnc": true,
+        "doClone": null
+    },
+    "multiplayers": [],
+    "source": null,
+    "domains": [],
+    "isAlwaysOn": false,
+    "isBoosted": false
+}
